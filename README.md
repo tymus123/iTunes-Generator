@@ -5,9 +5,6 @@
 
 > #### Premium version: [Maze Team](https://discord.gg/mxz4JNBEPp)
 ```
-15 times faster
-```
-
-```
-Made using C++
+15 Times Faster
+4+ Thread Support
 ```
